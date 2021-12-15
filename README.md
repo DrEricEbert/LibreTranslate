@@ -1,6 +1,6 @@
 # LibreTranslate
 
-##Installationshinweis
+## Installationshinweis
 ```bash
 sudo apt install python3-pip
 sudo apt install libicu-dev
