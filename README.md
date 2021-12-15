@@ -1,5 +1,14 @@
 # LibreTranslate
 
+##Installationshinweis
+```bash
+sudo apt install python3-pip
+sudo apt install libicu-dev
+pip install pyicu
+pip install libretranslate==1.2.5
+libretranslate
+```
+
 [Try it online!](https://libretranslate.com) | [API Docs](https://libretranslate.com/docs) | [Community Forum](https://community.libretranslate.com/)
 
 [![Python versions](https://img.shields.io/pypi/pyversions/libretranslate)](https://pypi.org/project/libretranslate) [![Run tests](https://github.com/LibreTranslate/LibreTranslate/workflows/Run%20tests/badge.svg)](https://github.com/LibreTranslate/LibreTranslate/actions?query=workflow%3A%22Run+tests%22) [![Publish to DockerHub](https://github.com/LibreTranslate/LibreTranslate/workflows/Publish%20to%20DockerHub/badge.svg)](https://hub.docker.com/r/libretranslate/libretranslate) [![Publish to GitHub Container Registry](https://github.com/LibreTranslate/LibreTranslate/workflows/Publish%20to%20GitHub%20Container%20Registry/badge.svg)](https://github.com/LibreTranslate/LibreTranslate/actions?query=workflow%3A%22Publish+to+GitHub+Container+Registry%22) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
